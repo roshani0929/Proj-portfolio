@@ -12,9 +12,9 @@ const portfolioData = {
   // ----------------------------------------------------------
   // 🧑 PERSONAL INFO
   // ----------------------------------------------------------
-  name: "Chinmay Ingle",
-  firstName: "Chinmay",   // Used in the hero greeting
-  lastName: "Ingle",      // Displayed large in the hero section
+  name: "Roshani patil ",
+  firstName: "Roshani",   // Used in the hero greeting
+  lastName: "Patil",      // Displayed large in the hero section
   tagline: "Engineering Student & Aspiring Developer",
   resumeLink: "#",        // Link to your resume (Google Drive, etc.)
 
@@ -29,8 +29,8 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
     highlights: [
       { label: "Location", value: "Pune, India" },
       { label: "University", value: "Savitribai Phule Pune University" },
-      { label: "Branch", value: "Artificial Intelligence and Machine Learning" },
-      { label: "Year", value: "Second Year (SE)" },
+      { label: "Branch", value: "Computer Engineering" },
+      { label: "Year", value: "First Year (FY)" },
     ],
   },
 
@@ -40,14 +40,14 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
   // Each skill has a name and a level (1-5).
   // The level controls the visual indicator bar.
   skills: [
-    { name: "HTML & CSS", level: 4 },
-    { name: "JavaScript", level: 3 },
-    { name: "Python", level: 4 },
-    { name: "C / C++", level: 3 },
+    { name: "HTML & CSS", level: 1 },
+    { name: "JavaScript", level: 1 },
+    { name: "Python", level: 1 },
+    { name: "C / C++", level: 1 },
     { name: "React.js", level: 2 },
-    { name: "Git & GitHub", level: 3 },
-    { name: "SQL / MySQL", level: 3 },
-    { name: "Java", level: 2 },
+    { name: "Git & GitHub", level: 1},
+    { name: "SQL / MySQL", level: 1 },
+    { name: "Java", level: 0 },
   ],
 
   // ----------------------------------------------------------
