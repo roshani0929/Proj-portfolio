@@ -106,15 +106,15 @@ When I'm not coding, you'll find me playing chess or reading tech blogs.`,
     },
     {
       degree: "HSC (12th Grade)",
-      institution: "ABC Junior College, Pune",
+      institution: "janta vidhyalaya Junior College, Pune",
       duration: "2022 – 2024",
       description: "Science stream with Computer Science. Scored 89%.",
     },
     {
       degree: "SSC (10th Grade)",
-      institution: "XYZ High School, Pune",
+      institution: "Nirmal international School, Pachora",
       duration: "2022",
-      description: "Scored 92% with distinction.",
+      description: "Scored 89% with distinction.",
     },
   ],
 
